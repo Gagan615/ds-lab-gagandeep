@@ -1,2 +1,2 @@
-# ds-lab-gagandeep1024030314
+# ds-lab-gagandeep
 This is for DS lab weekly assignments . 
